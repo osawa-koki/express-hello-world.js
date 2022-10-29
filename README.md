@@ -1,6 +1,6 @@
 # README
 
-[Render](https://dashboard.render.com/)でのデプロイテスト用リポジトリ。  
+[render](https://dashboard.render.com/)でのデプロイテスト用リポジトリ。  
 Let's バチン!!!  
 <https://render.com/docs/deploy-node-express-app>
 
